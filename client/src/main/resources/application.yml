@@ -1,0 +1,6 @@
+urule:
+  resporityServerUrl: http://localhost:8787
+  knowledgeUpdateCycle: 1
+
+server:
+  port: 7878
